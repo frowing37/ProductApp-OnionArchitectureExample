@@ -1,10 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "qpCWS2vi8M7eUkr4ItlU2EJWwydP2nEsJCRNEazczU/ma40B/w1F46qJBE9Oem7OMOu+oyKCD4g5pHIXrlHdHw==",
+  "dgSpecHash": "7cWnt/z5HKuc2HXCKdXgkFq4DNSn2eMFSQPVRQ5nTgO1lkToDPwh4vRu6DxfybZJOquk71JvpSufZ2B12mlYXA==",
   "success": true,
   "projectFilePath": "/Users/frowing/Projects/OnionArchitecture/ProductApp/src/Infrastructure/ProductApp.Persistence/ProductApp.Persistence.csproj",
   "expectedPackageFiles": [
+    "/Users/frowing/.nuget/packages/automapper/13.0.1/automapper.13.0.1.nupkg.sha512",
     "/Users/frowing/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
+    "/Users/frowing/.nuget/packages/mediatr/11.1.0/mediatr.11.1.0.nupkg.sha512",
+    "/Users/frowing/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
+    "/Users/frowing/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/11.1.0/mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
     "/Users/frowing/.nuget/packages/microsoft.bcl.asyncinterfaces/6.0.0/microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
     "/Users/frowing/.nuget/packages/microsoft.codeanalysis.analyzers/3.3.3/microsoft.codeanalysis.analyzers.3.3.3.nupkg.sha512",
     "/Users/frowing/.nuget/packages/microsoft.codeanalysis.common/4.5.0/microsoft.codeanalysis.common.4.5.0.nupkg.sha512",

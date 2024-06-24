@@ -1,9 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "sY4UD/BhaCc4z3G6HdLKlKyTHE/35+upzv37fCdy6hJsomKpXvgRP3CgdknhagPhkmzgEUqBT8dSZyxi3X+IvQ==",
+  "dgSpecHash": "Yhytvx/c9Kyx/GdBNaBM0/EUzzV14y6xp/BW9tD/FcT3yqqBnrRDUQy9F2IJC2qR2rfZKP4lRvX5FeJEqrB05A==",
   "success": true,
   "projectFilePath": "/Users/frowing/Projects/OnionArchitecture/ProductApp/src/WebApi/ProductApp.WebApi/ProductApp.WebApi.csproj",
   "expectedPackageFiles": [
+    "/Users/frowing/.nuget/packages/automapper/13.0.1/automapper.13.0.1.nupkg.sha512",
+    "/Users/frowing/.nuget/packages/mediatr/11.1.0/mediatr.11.1.0.nupkg.sha512",
+    "/Users/frowing/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
+    "/Users/frowing/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/11.1.0/mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
     "/Users/frowing/.nuget/packages/microsoft.aspnetcore.openapi/8.0.4/microsoft.aspnetcore.openapi.8.0.4.nupkg.sha512",
     "/Users/frowing/.nuget/packages/microsoft.entityframeworkcore/8.0.6/microsoft.entityframeworkcore.8.0.6.nupkg.sha512",
     "/Users/frowing/.nuget/packages/microsoft.entityframeworkcore.abstractions/8.0.6/microsoft.entityframeworkcore.abstractions.8.0.6.nupkg.sha512",
