@@ -12,9 +12,9 @@ public class ApplicationDbContext : DbContext
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         modelBuilder.Entity<Product>().HasData(
-            new Product(){ Id = new Guid(), Name = "Pen", Value = 10, Quantity = 100},
-            new Product(){ Id = new Guid(), Name = "Paper A4", Value = 10, Quantity = 100},
-            new Product(){ Id = new Guid(), Name = "Book", Value = 10, Quantity = 100}
+            new Product(){ Id = Guid.NewGuid(), Name = "Pen", Value = 10, Quantity = 100},
+            new Product(){ Id = Guid.NewGuid(), Name = "Paper A4", Value = 10, Quantity = 100},
+            new Product(){ Id = Guid.NewGuid(), Name = "Book", Value = 10, Quantity = 100}
             );
         
         base.OnModelCreating(modelBuilder);
